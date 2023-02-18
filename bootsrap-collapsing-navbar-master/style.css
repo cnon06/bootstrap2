@@ -1,0 +1,23 @@
+.navbar
+{
+    background-color: #085E7D !important;
+}
+
+
+
+
+@media(max-width:400px)
+{
+   
+  a
+  {
+    color: black!important;
+  }
+
+    #house
+    {
+        color: white !important;
+    }
+
+   
+}
